@@ -1,6 +1,5 @@
-package com.company;
+package com.CP;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class DuplicatesInArray {
